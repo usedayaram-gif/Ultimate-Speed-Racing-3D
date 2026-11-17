@@ -1,0 +1,6 @@
+{
+  "name": "Ultimate Speed Racing 3D",
+  "description": "High-speed 3D mobile car racing game featuring 20 supercars, 7 game modes, 6 dynamic environments, police chases, weather & day-night cycles, garage upgrades, and English/Hindi support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
